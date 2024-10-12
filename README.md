@@ -11,6 +11,17 @@
 - You can checkout [BoBoSSH](https://github.com/TechWithRamaa/BobaSSH)
 - You can checkout [BoBoServer](https://github.com/TechWithRamaa/Boba-Server)
 - You can checkout [BoBo-SSH-Server](https://github.com/TechWithRamaa/Boba-SSH-Server)
+  
+### Key Features
+- **Remote Access**: Execute commands and manage your remote server instances securely over SSH
+- **File Transfers**: Transfer files between the local machine and remote server using SCP or SFTP
+- **Tunneling & Port Forwarding**: Securely tunnel traffic between systems through encrypted connections
+- **Authentication**: Supports password-based or public/private key pair authentication for secure user access
+
+### Tech Stack
+- **C++**: Core logic for handling socket programming, client-server interactions, and command execution
+- **POSIX APIs**: Used for handling process creation (fork()), networking (sockets), and signals
+- **Linux**: The server runs on Linux-based systems leveraging its networking and process management features
 
 ### Contributions
 * Contributions are welcome! If you have an idea for a new feature implementation or improvements to existing projects, feel free to fork the repository and submit a pull request
