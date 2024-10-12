@@ -1,16 +1,16 @@
-# BoBo-SSH-Kit
-- **BoBo-SSH-Kit** is a comprehensive solution that offers both SSH client and server implementations, designed to help users securely connect to and manage remote systems.
-- With an emphasis on security and ease of use, BoBo-SSH-Kit allows users to establish encrypted connections, remotely manage server instances, and transfer files securely over the SSH protocol.
+# BoBa-SSH-Kit
+- **BoBa-SSH-Kit** is a comprehensive solution that offers both SSH client and server implementations, designed to help users securely connect to and manage remote systems.
+- With an emphasis on security and ease of use, BoBa-SSH-Kit allows users to establish encrypted connections, remotely manage server instances, and transfer files securely over the SSH protocol.
 
 # Core Utilities 
-- **BoBoSSH** is a lightweight and reliable client for initiating secure connections to remote servers, enabling users to execute commands and transfer files
-- **BoBoServer** is a low-latent ssh-server implemented using epoll for efficient I/O event handling and threadpool for execution of tasks by worker threads
-- **BoBo-SSH-Server** is a ssh-server based on traditional fork model for handling clients in a separate child process for isolation & robust shell experience
+- **BoBaSSH** is a lightweight and reliable client for initiating secure connections to remote servers, enabling users to execute commands and transfer files
+- **BoBaServer** is a low-latent ssh-server implemented using epoll for efficient I/O event handling and threadpool for execution of tasks by worker threads
+- **BoBa-SSH-Server** is a ssh-server based on traditional fork model for handling clients in a separate child process for isolation & robust shell experience
 
 # Repository links 
-- You can checkout [BoBoSSH](https://github.com/TechWithRamaa/BobaSSH)
-- You can checkout [BoBoServer](https://github.com/TechWithRamaa/Boba-Server)
-- You can checkout [BoBo-SSH-Server](https://github.com/TechWithRamaa/Boba-SSH-Server)
+- You can checkout [BoBaSSH](https://github.com/TechWithRamaa/BobaSSH)
+- You can checkout [BoBaServer](https://github.com/TechWithRamaa/Boba-Server)
+- You can checkout [BoBa-SSH-Server](https://github.com/TechWithRamaa/Boba-SSH-Server)
   
 ### Key Features
 - **Remote Access**: Execute commands and manage your remote server instances securely over SSH
