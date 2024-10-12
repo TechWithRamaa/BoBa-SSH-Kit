@@ -1,6 +1,6 @@
 # BoBo-SSH-Kit
 - **BoBo-SSH-Kit** is a comprehensive solution that offers both SSH client and server implementations, designed to help users securely connect to and manage remote systems.
-- With an emphasis on security and ease of use, SecureConnect allows users to establish encrypted connections, remotely manage server instances, and transfer files securely over the SSH protocol.
+- With an emphasis on security and ease of use, BoBo-SSH-Kit allows users to establish encrypted connections, remotely manage server instances, and transfer files securely over the SSH protocol.
 
 # Core Utilities 
 - **BoBoSSH** is a lightweight and reliable client for initiating secure connections to remote servers, enabling users to execute commands and transfer files
